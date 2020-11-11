@@ -20,5 +20,3 @@ Here we will use the Breast Cancer Wisconsin (Diagnostic) DataSet. This dataset 
 The purpose of this Kernel is to develop a neural network that is capable of accurately predicting whether a tumor is benign or malignant, given several measurements. For this purpose, first we will analyze this dataset and then try three diffenet deep learning classification models with and without early stopping and droupout layers and compare the obtained results.
 
 </div>
-
-
