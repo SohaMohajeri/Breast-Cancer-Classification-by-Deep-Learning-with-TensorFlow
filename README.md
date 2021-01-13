@@ -4,7 +4,6 @@
 ## Breast Cancer Classification by Deep Learning with TensorFlow
 </div>
 
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/96684879-292be580-1331-11eb-872e-a13ab3774382.jpg" >
 </div>
